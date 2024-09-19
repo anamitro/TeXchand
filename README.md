@@ -1,6 +1,6 @@
 # TeXচাঁদ
 
-<img src="logo/tmp_annonated.png" alt="drawing" width="200"/>
+<img src="logo/tmp_annotated.png" alt="drawing" width="200"/>
 
 XeLaTeX-based template for scientific and literary publication in Bengali vernacular compatible modern printing technology and readership. Named after one of the earliest Bengali prose authors post-medieval era, who is more famous in his pseudonym টেকচাঁদ ঠাকুুর; the codes have the following variant (mutually exhaustive, but not alternative) packages:
 
