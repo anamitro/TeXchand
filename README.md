@@ -38,7 +38,7 @@ Derivatve works for other languages is just a triviality and is essentially a ma
 
 ___
 
-Designed and maintained by [Anamitro Biswas] (https://anamitro.github.io), math student and enthusiastic in Sanskrita-Bengali literature and typography. For any queries or feedback, you may drop an email at: anamitroappu@gmail.com.
+Designed and maintained by [Anamitro Biswas](https://anamitro.github.io), math student and enthusiastic in Sanskrita-Bengali literature and typography. For any queries or feedback, you may drop an email at: anamitroappu@gmail.com.
 
 [**Homepage**](https://anamitro.github.io)
 
