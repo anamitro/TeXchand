@@ -5,28 +5,27 @@
 XeLaTeX-based template for scientific and literary publication in Bengali vernacular compatible modern printing technology and readership. Named after one of the earliest Bengali prose authors post-medieval era, who is more famous in his pseudonym টেকচাঁদ ঠাকুুর; the codes have the following variant (mutually exhaustive, but not alternative) packages:
 
 
-## <img src="logo/texka.png" alt="drawing" width="200"/> <img src="logo/texka1.png" alt="drawing" width="100"/>
-
-means ‘ace’ in bridge, and is derived from TeX(patri)ka. It is a template designed for newspaper and literary magazine, adapting the traditional styles of enigmatic journals of the era of Kazi Nazrul’s Dhumketu into a new digital era of color printing and PDF readers. Runs on XeTeX and ideally uses fonts Alkatra for headings, Tiro Bangla for Bengali and Latin Texts.
-
-
-## <img src="logo/texsci1.png" alt="drawing" width="200"/> <img src="logo/texsci2.png" alt="drawing" width="200"/>
-
-Referring in Bengali to its durability, the idea is to make the perfect professional mathematical typesetting in the latest AMS-approved style go hand-in-hand with the standard elegant Bengali typefaces in perfect blend with math mode. Uses STIX and Tiro Bangla with amsart.
+| <img src="logo/texka.png" alt="drawing" width="200"/> <img src="logo/texka1.png" alt="drawing" width="100"/> |
+| --- |
+| means ‘ace’ in bridge, and is derived from TeX(patri)ka. It is a template designed for newspaper and literary magazine, adapting the traditional styles of enigmatic journals of the era of Kazi Nazrul’s Dhumketu into a new digital era of color printing and PDF readers. Runs on XeTeX and ideally uses fonts Alkatra for headings, Tiro Bangla for Bengali and Latin Texts. |
 
 
-## <img src="logo/ajtex.png" alt="drawing" width="200"/>
+| <img src="logo/texsci1.png" alt="drawing" width="200"/> <img src="logo/texsci2.png" alt="drawing" width="200"/> |
+| --- |
+| Referring in Bengali to its durability, the idea is to make the perfect professional mathematical typesetting in the latest AMS-approved style go hand-in-hand with the standard elegant Bengali typefaces in perfect blend with math mode. Uses STIX and Tiro Bangla with amsart. |
+| [**Repository**](https://github.com/anamitro/texsci) |
 
-*pronounced as ‘az-tec’*
 
-The perfect typesetting for books of fiction and essays, letters and notices, merging the Times Roman font with the metal Bengali typefaces predating the old Linotype digitized with the new computer-compatibility of the new Linotype. Uses Tiro Bangla, STIX and classy book jacket designs from elite libraries.
+| <img src="logo/ajtex.png" alt="drawing" width="200"/> |
+| --- |
+| *pronounced as ‘az-tec’* |
+| The perfect typesetting for books of fiction and essays, letters and notices, merging the Times Roman font with the metal Bengali typefaces predating the old Linotype digitized with the new computer-compatibility of the new Linotype. Uses Tiro Bangla, STIX and classy book jacket designs from elite libraries. |
 
 
-## <img src="logo/texnickel.png" alt="drawing" width="200"/>
-
-*pronounced as ‘tech-nickel’*
-
-The perfect typesetting for books of fiction and essays and even science (by that I don't just mean popular science!), merging the Times Roman font with the metal Bengali typefaces predating the old Linotype digitized with the new computer-compatibility of the new Linotype. Uses Tiro Bangla, STIX and classy book jacket designs from elite libraries. You can prepare formés for easy printing according to your available raw paper size. Book jacket designs and templates come along.
+| <img src="logo/texnickel.png" alt="drawing" width="200"/> |
+| --- |
+| *pronounced as ‘tech-nickel’* |
+| The perfect typesetting for books of fiction and essays and even science (by that I don't just mean popular science!), merging the Times Roman font with the metal Bengali typefaces predating the old Linotype digitized with the new computer-compatibility of the new Linotype. Uses Tiro Bangla, STIX and classy book jacket designs from elite libraries. You can prepare formés for easy printing according to your available raw paper size. Book jacket designs and templates come along. |
 
 ___
 
