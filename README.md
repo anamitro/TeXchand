@@ -8,7 +8,7 @@ XeLaTeX-based template for scientific and literary publication in Bengali vernac
 | <img src="logo/texka.png" alt="drawing" width="200"/> <img src="logo/texka1.png" alt="drawing" width="100"/> |
 | --- |
 | means ‘ace’ in bridge, and is derived from TeX(patri)ka. It is a template designed for newspaper and literary magazine, adapting the traditional styles of enigmatic journals of the era of Kazi Nazrul’s Dhumketu into a new digital era of color printing and PDF readers. Runs on XeTeX and ideally uses fonts Alkatra for headings, Tiro Bangla for Bengali and Latin Texts. |
-| [**Repository**](https://anamitro.github.io/texpatrika) |
+| [**Repository**](https://github.com/anamitro/texpatrika) |
 
 
 | <img src="logo/texsci1.png" alt="drawing" width="200"/> <img src="logo/texsci2.png" alt="drawing" width="200"/> |
